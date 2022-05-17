@@ -1,0 +1,16 @@
+.item-list {
+  margin-bottom: 1rem;
+}
+
+.item-list .list-group-item {
+  cursor: pointer;
+}
+
+.item-list .list-group-item:hover {
+  background-color: #444;
+}
+
+div.col-md-6 > div.loadingio-spinner-double-ring-wapikie9bbm{
+  margin-top: 5%;
+  margin-left: 35%;
+}
